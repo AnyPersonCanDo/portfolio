@@ -1,9 +1,9 @@
 # Marketer | Data Enthusiast 
 
 ## Education
-Marketing, BS
-Communications, MS
-Analytics, MS
+Marketing, BS | Missouri State University
+Communications, MS | Purdue University Graduate School
+Analytics, MS | Georgia Institute of Technology 
 
 ## Experience
 Ford
