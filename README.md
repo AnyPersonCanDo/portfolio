@@ -14,5 +14,5 @@ Owens-Illinois
 Metra
 Muddy Gecko Agency
 
-## 
+## Projects of interest
 
