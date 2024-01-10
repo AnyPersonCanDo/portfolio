@@ -3,7 +3,7 @@
 ## Education
 Marketing, BS | Missouri State University  
 Communications, MS | Purdue University Graduate School   
-Analytics, MS | Georgia Institute of Technology   
+Analytics, MS (candidate) | Georgia Institute of Technology   
 
 ## Experience
 Ford   
