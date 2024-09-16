@@ -1,5 +1,3 @@
-# Hi, I'm Robert Carlton! 👋
-
 ## AI, Machine Learning & Analytics | Marketing | Communications 
 
 I'm a professional with 25+ years of experience in **Marketing** and **Communications**,  focused on harnessing the power of **AI** and **Analytics** to drive business insights and solutions. I thrive on creating data-driven strategies that bridge the gap between marketing and technology.
