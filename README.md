@@ -15,7 +15,7 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - [GeoStatsGuy](https://github.com/GeostatsGuy) - Great collection of geo-analytics worksflows.
 - [Anthropics Educational Courses](https://github.com/anthropics/courses/tree/master) - Five courses from Anthropic primarily focused on prompting.
 
-- ## 🌍 Current interests
+## 🌍 Current interests
 - Generative AI
 - Vector RAG / Graph RAG especially to improve communications speed and response in times of crisis by integrating communications theory, crisis commms best practices and organization policy
 - Signal extraction from unstructed inputs using LLMs, leveraging prompt engineering techniques and classification
