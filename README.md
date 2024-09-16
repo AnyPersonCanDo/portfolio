@@ -22,9 +22,9 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - Geo-analytics 
 - Machine learning applied to sound modeling (see [Helix](https://www.line6.com) and [Neural Quad Cortex](https://www.neuraldsp.com))
 
-- ## 📫 Let's connect!
+## 📫 Let's connect!
 
 - LinkedIn: [Robert on LinkedIn](https://linkedin.com/in/robertcarlton)
 
--  ## ☕ My favorite workplace coffee (in Chicagoland).
+## ☕ My favorite workplace coffee (in Chicagoland).
 -  [Chicagoland's Coffee Supply Group](https://www.CoffeeSupplyGroup.com) - Best workplace coffee! If it's not in your office, ask the boss to get in touch!
