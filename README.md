@@ -7,6 +7,10 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - Stock price prediction modeling using ensemble models and technical, fundamental and social data.
 - Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification.
 
+## 🔥 Some of my favorite repositories
+- [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
+- [Machine Learning Tutorials](https://github.com/username/repo) - A collection of ML tutorials.
+
 - ## 📫 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/robertcarlton)
