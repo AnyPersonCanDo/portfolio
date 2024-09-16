@@ -13,6 +13,7 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [Awesome LLM Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - This is a collection of research papers & blogs for OpenAI Strawberry(o1) and Reasoning.
 - [GeoStatsGuy](https://github.com/GeostatsGuy) - Great collection of geo-analytics worksflows.
+- [Anthropics Educational Courses](https://github.com/anthropics/courses/tree/master) - Five courses from Anthropic primarily focused on prompting.
 
 - ## 📫 Let's Connect!
 
