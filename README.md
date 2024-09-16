@@ -17,7 +17,7 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 
 - ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/robertcarlton)
+- LinkedIn: [Robert on LinkedIn](https://linkedin.com/in/robertcarlton)
 
 -  ## ☕ My favorite workplace coffee (in Chicagoland).
 -  [Coffee Supply Group](https://www.CoffeeSupplyGroup.com) - Best workplace coffee! If it's not in your office, ask the boss to get in touch!
