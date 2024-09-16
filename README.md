@@ -1,4 +1,4 @@
-## AI, Machine Learning & Analytics | Marketing | Communications 
+# AI, Machine Learning & Analytics | Marketing | Communications 
 
 I'm a professional with 25+ years of experience in **Marketing** and **Communications**,  focused on harnessing the power of **AI** and **Analytics** to drive business insights and solutions. I thrive on creating data-driven strategies that bridge the gap between marketing and technology.
 
@@ -22,7 +22,7 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - Geo-analytics 
 - Machine learning applied to sound modeling (see [Helix](www.line6.com) and [Neural Quad Cortex](www.neuraldsp.com))
 
-- ## 📫 Let's Connect!
+- ## 📫 Let's connect!
 
 - LinkedIn: [Robert on LinkedIn](https://linkedin.com/in/robertcarlton)
 
