@@ -15,6 +15,13 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 - [GeoStatsGuy](https://github.com/GeostatsGuy) - Great collection of geo-analytics worksflows.
 - [Anthropics Educational Courses](https://github.com/anthropics/courses/tree/master) - Five courses from Anthropic primarily focused on prompting.
 
+- ## 🌍 Current interests
+- Generative AI
+- Vector RAG / Graph RAG especially to improve communications speed and response in times of crisis by integrating communications theory, crisis commms best practices and organization policy
+- Signal extraction from unstructed inputs using LLMs, leveraging prompt engineering techniques and classification
+- Geo-analytics 
+- Machine learning applied to sound modeling (see [Helix](www.line6.com) and [Neural Quad Cortex](www.neuraldsp.com))
+
 - ## 📫 Let's Connect!
 
 - LinkedIn: [Robert on LinkedIn](https://linkedin.com/in/robertcarlton)
